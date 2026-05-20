@@ -40,7 +40,7 @@ learning to build, design pipelines, and orchestrate complex data workflows effi
 Systematically unlocking language model capabilities through refined instruction design, few-shot examples, and structured outputs.
 
 **Security + AI**  
-The intersection that fascinates me most—how intelligent systems can detect anomalies, predict threats, and automate defense at scale.
+Understanding the gaps and vulnerabilities in large language models and how they are exploited.
 
 ---
 
