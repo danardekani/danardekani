@@ -33,7 +33,7 @@ Currently pursuing a Master's in Applied AI, exploring power of intelligent syst
 **Claude Agents**  
 Designing autonomous systems that reason, plan, and act independently—exploring the boundaries of agentic behavior and real-world application.
 
-**Databricks Workflow**  
+**Databricks Workflows**  
 learning to build, design pipelines, and orchestrate complex data workflows efficiently.
 
 **Prompt Engineering**  
@@ -59,5 +59,3 @@ Understanding the gaps and vulnerabilities in large language models and how they
 Master's in Applied AI | Databricks Data Engineering | Advanced Prompt Engineering
 
 ---
-
-*Open to collaborations on AI automation, security innovation, and bold ideas.*
