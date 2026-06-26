@@ -12,8 +12,8 @@ Currently completing my M.S. in Applied Artificial Intelligence at Eastern Unive
  
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| 📄 **RAG Document Assistant** | Upload any PDF, ask questions, push answers to Slack via webhook | Python · LangChain · ChromaDB · Claude API · Streamlit | In Progress |
-| 🚨 **Behavioral Anomaly Detector** | ML anomaly detection + LLM explanations + AbuseIPDB REST enrichment + Slack alerts | Python · scikit-learn · IsolationForest · Claude API | In Progress |
+| 📄 **RAG Document Assistant** | Upload any PDF, ask questions, push answers to Slack via webhook | Python · LangChain · ChromaDB · Claude API · Streamlit | In Queue |
+| 🚨 **Behavioral Anomaly Detector** | ML anomaly detection + LLM explanations + AbuseIPDB REST enrichment + Slack alerts | Python · scikit-learn · IsolationForest · Claude API | In Queue |
 | 🤖 **Agentic Incident Triage** | LangGraph agent: NVD + VirusTotal REST APIs · FastAPI webhook receiver · Slack notifications | Python · LangGraph · FastAPI · Claude API | In Progress |
  
 ---
